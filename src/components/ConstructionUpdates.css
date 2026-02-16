@@ -1,0 +1,39 @@
+.construction-updates {
+    padding: 60px 40px;
+    background: white;
+}
+
+.construction-updates h2 {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.updates-timeline {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.update-item {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #f8f9fa;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-left: 4px solid #007bff;
+}
+
+.update-date {
+    font-weight: bold;
+    color: #007bff;
+    min-width: 120px;
+    font-size: 16px;
+}
+
+.update-status {
+    color: #333;
+    font-size: 16px;
+    padding-left: 20px;
+}

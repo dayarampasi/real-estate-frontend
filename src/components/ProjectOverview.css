@@ -1,0 +1,40 @@
+.project-overview {
+    padding: 60px 40px;
+    background: white;
+}
+
+.project-overview h2 {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.project-overview p {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto 30px;
+}
+
+.features-list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.features-list li {
+    background: #007bff;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-size: 16px;
+    box-shadow: 0 4px 6px rgba(0, 123, 255, 0.3);
+}
